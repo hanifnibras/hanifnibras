@@ -5,7 +5,8 @@
 Certainly! Here's a brief profile of **Nibras Hanif Kusuma**:
 
 - **Name**: Nibras Hanif Kusuma B.Eng
-  # Interest
+  **Almamater**: Universiti Teknologi Malaysia
+  **Major**: Software Engineer
   
 
 
